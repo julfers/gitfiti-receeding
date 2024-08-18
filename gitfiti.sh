@@ -3185,5 +3185,5 @@ GIT_AUTHOR_DATE=2026-09-19T12:00:00 GIT_COMMITTER_DATE=2026-09-19T12:00:00 git c
 GIT_AUTHOR_DATE=2026-09-19T12:00:00 GIT_COMMITTER_DATE=2026-09-19T12:00:00 git commit --allow-empty -m "gitfiti" > /dev/null
 GIT_AUTHOR_DATE=2026-09-19T12:00:00 GIT_COMMITTER_DATE=2026-09-19T12:00:00 git commit --allow-empty -m "gitfiti" > /dev/null
 
-git remote add origin git@github.com:julfers/gitfiti-receeding.git
-git push -u origin master
+# git remote add origin git@github.com:julfers/gitfiti-receeding.git
+# git push -u origin master
